@@ -1,2 +1,2 @@
 # sample-repo
-updated.
+updated, updated
