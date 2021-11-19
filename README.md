@@ -1,4 +1,4 @@
 # sample-repo
 updated, updated
 new-feature branch created
-no-fast-forward branch made
+no-fast-forward branch deleted
